@@ -1,6 +1,6 @@
 {
     "name": "muratbsts/mail-template",
-    "description": "A mail template collection for Laravel 5.x",
+    "description": "This package is a easy to use mail template collection for Laravel 5.x.",
     "keywords": [
         "laravel",
         "mail",
