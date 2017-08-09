@@ -58,21 +58,21 @@ Use package as like below in your method
 ```php
 <?php
 
-use Muratbsts\MailTemplate\MailTemplate;
+use Muratbsts\MailTemplate\MailTemplate as MailTemplate;
 
 class XyzController extends Controller
 {
     public function send()
     {
-        $mailer = new MailTemplate;
+        $mailer = app()->make(MailTemplate::class);
     
         $mailer->send('emails.welcome', [
             'button' => [
                 'text' => 'Sign up now!',
                 'link' => 'https://google.com',
             ]
-        ], function ($message) {
-            $message->to('foo@example.com', 'John Doe')->subject('Welcome!');
+        ], function ($message) use ($user) {
+            $message->to($user->email, $user->name)->subject('Welcome!');
         });
     }
 }
