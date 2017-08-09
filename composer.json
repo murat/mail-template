@@ -14,12 +14,12 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "illuminate/contracts": "~5.5"
-    },
     "autoload": {
         "psr-4": {
             "Muratbsts\\MailTemplate\\": "src/"
         }
+    },
+    "require": {
+        "illuminate/contracts": "^5.4"
     }
 }
