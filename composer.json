@@ -1,0 +1,25 @@
+{
+    "name": "muratbsts/mail-template",
+    "description": "A mail template collection for Laravel 5.x",
+    "keywords": [
+        "laravel",
+        "mail",
+        "template"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Murat Bastas",
+            "email": "muratbsts@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/contracts": "~5.5",
+    },
+    "autoload": {
+        "psr-4": {
+            "Muratbsts\\MailTemplate\\": "src/"
+        }
+    }
+}
