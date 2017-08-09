@@ -1,1 +1,7 @@
 * text=auto
+
+*.blade.php linguist-language=Php
+
+.editorconfig export-ignore
+.gitattributes export-ignore
+.gitignore export-ignore
