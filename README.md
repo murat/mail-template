@@ -16,7 +16,7 @@ I'm developing beautiful and responsive email templates inspired by [Really Good
 Add the package is to `composer.json` file:
 
 ```shell
-composer require muratbsts/mail-template
+composer require muratbsts/mail-template dev-master
 ```
 
 Add the service provider to `config/app.php` file:
@@ -58,7 +58,7 @@ Use package as like below in your method
 ```php
 <?php
 
-use Muratbsts\MailTemplate\MailTemplate as MailTemplate;
+use Muratbsts\MailTemplate\MailTemplate;
 
 class XyzController extends Controller
 {
@@ -72,7 +72,7 @@ class XyzController extends Controller
                 'link' => 'https://google.com',
             ]
         ], function ($message) {
-            $message->to('foo@example.com', 'John Smith')->subject('Welcome!');
+            $message->to('foo@example.com', 'John Doe')->subject('Welcome!');
         });
     }
 }
@@ -84,8 +84,8 @@ Extend your welcome email template from `mailtemplate::emails.default` as like b
 @extends('mailtemplate::emails.default')
 
 @section('logo')
-    <a href="https://www.seeklogo.net/wp-content/uploads/2015/09/google-mail-logo-vector-download.jpg" style="text-decoration: none;transition: opacity 0.1s ease-in;color: #c3ced9;" target="_blank">
-        <img alt="" src="https://www.seeklogo.net/wp-content/uploads/2015/09/google-mail-logo-vector-download.jpg" style="display: block;height: auto;width: 100%;border: 0;max-width: 142px;max-height: 142px;" width="142">
+    <a href="http://placehold.it/142x142" target="_blank">
+        <img alt="" src="http://placehold.it/142x142" width="142">
     </a>
 @endsection
 
@@ -95,7 +95,7 @@ Extend your welcome email template from `mailtemplate::emails.default` as like b
 
 @section('banner')
     <a href="http://placehold.it/900x300" target="_blank">
-        <img alt="" src="http://placehold.it/900x300" style="border: 0;display: block;height: auto;width: 100%;max-width: 900px;" width="560">
+        <img alt="" src="http://placehold.it/900x300">
     </a>
 @endsection
 
