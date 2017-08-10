@@ -32,7 +32,7 @@ Add the service provider to `config/app.php` file:
 ...
 ```
 
-Create a config file like `config/mailtemplapte.php`
+Create a config file like `config/mailtemplate.php`
 
 ```php
 <?php
