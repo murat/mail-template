@@ -6,7 +6,7 @@ This package is a easy to use mail template collection for Laravel 5.x.
 
 ## 🎨 [Templates](./screenshots)
 
-There is only 2 templates available currently. But more templates is coming fastly.
+There is only 3 templates available currently. But more templates is coming fastly.
 I'm developing beautiful and responsive email templates inspired by [Really Good Emails Collection](https://codepen.io/reallygoodemails).
 
 🏙 [Screenshots are here](./screenshots)

@@ -1,6 +1,8 @@
-<!--<![endif]-->
+<!--[if IE]>
+<html xmlns="http://www.w3.org/1999/xhtml" class="ie"><![endif]--><!--[if !IE]><!-->
 <!DOCTYPE html>
-<html>
+<html style="margin: 0;padding: 0;">
+<!--<![endif]-->
 <head>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
     <title>
@@ -17,24 +19,24 @@
             }
 
             .wrapper h1 {
-                font-size: 32px !important;
-                line-height: 40px !important
+                font-size: 64px !important;
+                line-height: 63px !important
             }
 
             .wrapper h2 {
             }
 
             .wrapper h2 {
+                font-size: 30px !important;
+                line-height: 38px !important
+            }
+
+            .wrapper h3 {
+            }
+
+            .wrapper h3 {
                 font-size: 22px !important;
                 line-height: 31px !important
-            }
-
-            .wrapper h3 {
-            }
-
-            .wrapper h3 {
-                font-size: 18px !important;
-                line-height: 26px !important
             }
 
             .column {
@@ -464,19 +466,19 @@
 
         @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
             .fblike {
-                background-image: url(http://i7.cmail20.com/static/eb/master/13-the-blueprint-3/images/fblike@2x.png) !important;
+                background-image: url(https://i7.createsend1.com/static/eb/master/13-the-blueprint-3/images/fblike@2x.png) !important;
             }
 
             .tweet {
-                background-image: url(http://i8.cmail20.com/static/eb/master/13-the-blueprint-3/images/tweet@2x.png) !important;
+                background-image: url(https://i8.createsend1.com/static/eb/master/13-the-blueprint-3/images/tweet@2x.png) !important;
             }
 
             .linkedinshare {
-                background-image: url(http://i10.cmail20.com/static/eb/master/13-the-blueprint-3/images/lishare@2x.png) !important;
+                background-image: url(https://i10.createsend1.com/static/eb/master/13-the-blueprint-3/images/lishare@2x.png) !important;
             }
 
             .forwardtoafriend {
-                background-image: url(http://i9.cmail20.com/static/eb/master/13-the-blueprint-3/images/forward@2x.png) !important;
+                background-image: url(https://i9.createsend1.com/static/eb/master/13-the-blueprint-3/images/forward@2x.png) !important;
             }
         }
 
@@ -684,15 +686,7 @@
             font-size: 64px !important;
             line-height: 63px !important;
         }
-    </style><!--[if !mso]><!-->
-
-    <style type="text/css">
-        @import url(https://fonts.googleapis.com/css?family=Merriweather:400italic,400,700,700italic|Open+Sans:400italic,700italic,700,400);
     </style>
-    <link
-        href="https://fonts.googleapis.com/css?family=Merriweather:400italic,400,700,700italic|Open+Sans:400italic,700italic,700,400"
-        rel="stylesheet" type="text/css"><!--<![endif]-->
-
     <style type="text/css">
         body {
             background-color: #fff
@@ -703,40 +697,40 @@
         }
 
         .mso .layout-has-border {
-            border-top: 1px solid #ccc7ad;
-            border-bottom: 1px solid #ccc7ad
+            border-top: 1px solid #ccc;
+            border-bottom: 1px solid #ccc
         }
 
         .mso .layout-has-bottom-border {
-            border-bottom: 1px solid #ccc7ad
+            border-bottom: 1px solid #ccc
         }
 
         .mso .border, .ie .border {
-            background-color: #ccc7ad
+            background-color: #ccc
         }
 
         .mso h1, .ie h1 {
         }
 
         .mso h1, .ie h1 {
-            font-size: 32px !important;
-            line-height: 40px !important
+            font-size: 64px !important;
+            line-height: 63px !important
         }
 
         .mso h2, .ie h2 {
         }
 
         .mso h2, .ie h2 {
+            font-size: 30px !important;
+            line-height: 38px !important
+        }
+
+        .mso h3, .ie h3 {
+        }
+
+        .mso h3, .ie h3 {
             font-size: 22px !important;
             line-height: 31px !important
-        }
-
-        .mso h3, .ie h3 {
-        }
-
-        .mso h3, .ie h3 {
-            font-size: 18px !important;
-            line-height: 26px !important
         }
 
         .mso .layout__inner, .ie .layout__inner {
@@ -746,16 +740,18 @@
         }
 
         .mso .footer__share-button p {
-            font-family: Open Sans, sans-serif
+            font-family: sans-serif
         }
     </style>
+    <meta content="noindex,nofollow" name="robots">
+    <meta content="My First Campaign" property="og:title">
 </head>
 <!--[if mso]>
 <body class="mso">
 <![endif]-->
 <!--[if !mso]><!-->
 
-<body class="full-padding" style="margin: 0;padding: 0;-webkit-text-size-adjust: 100%;">
+<body class="no-padding" style="margin: 0;padding: 0;-webkit-text-size-adjust: 100%;">
 <!--<![endif]-->
 
 <table cellpadding="0" cellspacing="0" class="wrapper" role="presentation"
@@ -763,30 +759,9 @@
     <tbody>
     <tr>
         <td>
-            <div role="banner">
-                <div class="preheader"
-                     style="margin: 0 auto;max-width: 560px;min-width: 280px; width: 280px;width: calc(28000% - 167440px);">
-                    <div style="border-collapse: collapse;display: table;width: 100%;">
-                        <!--[if (mso)|(IE)]>
-                        <table align="center" class="preheader" cellpadding="0" cellspacing="0" role="presentation">
-                            <tr>
-                                <td style="width: 280px" valign="top"><![endif]-->
+            @if (trim($__env->yieldContent('logo')))
 
-                        <div class="snippet"
-                             style="display: table-cell;Float: left;font-size: 12px;line-height: 19px;max-width: 280px;min-width: 140px; width: 140px;width: calc(14000% - 78120px);padding: 10px 0 5px 0;color: #bdb9bd;font-family: Open Sans,sans-serif;">
-                        </div>
-                        <!--[if (mso)|(IE)]></td>
-                        <td style="width: 280px" valign="top"><![endif]-->
-
-                        <div class="webversion"
-                             style="display: table-cell;Float: left;font-size: 12px;line-height: 19px;max-width: 280px;min-width: 139px; width: 139px;width: calc(14100% - 78680px);padding: 10px 0 5px 0;text-align: right;color: #bdb9bd;font-family: Open Sans,sans-serif;">
-                        </div>
-                        <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
-                    </div>
-                </div>
-
-                @if (trim($__env->yieldContent('logo')))
-
+                <div role="banner">
                     <div class="header" id="emb-email-header-container"
                          style="margin: 0 auto;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);">
                         <!--[if (mso)|(IE)]>
@@ -795,16 +770,18 @@
                                 <td style="width: 600px"><![endif]-->
 
                         <div align="center" class="logo emb-logo-margin-box"
-                             style="font-size: 26px;line-height: 32px;margin-top: 0px;margin-bottom: 4px;color: #c3ced9;font-family: Roboto,sans-serif;">
+                             style="font-size: 26px;line-height: 32px;margin-top: 6px;margin-bottom: 20px;color: #c3ced9;font-family: Roboto,Tahoma,sans-serif;margin-left: 20px;margin-right: 20px;">
                             <div align="center" class="logo-center" id="emb-email-header">
                                 @yield('logo')
                             </div>
                         </div>
                         <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
                     </div>
+                </div>
 
-                @elseif(isset($logo) && $logo != null)
+            @elseif(isset($logo) && $logo != null)
 
+                <div role="banner">
                     <div class="header" id="emb-email-header-container"
                          style="margin: 0 auto;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);">
                         <!--[if (mso)|(IE)]>
@@ -813,142 +790,149 @@
                                 <td style="width: 600px"><![endif]-->
 
                         <div align="center" class="logo emb-logo-margin-box"
-                             style="font-size: 26px;line-height: 32px;margin-top: 0px;margin-bottom: 4px;color: #c3ced9;font-family: Roboto,sans-serif;">
+                             style="font-size: 26px;line-height: 32px;margin-top: 6px;margin-bottom: 20px;color: #c3ced9;font-family: Roboto,Tahoma,sans-serif;margin-left: 20px;margin-right: 20px;">
                             <div align="center" class="logo-center" id="emb-email-header">
-                                <a href="{{$logo['link']}}"
-                                   style="text-decoration: none;transition: opacity 0.1s ease-in;color: #c3ced9;"
-                                   target="_blank">
-                                    <img alt="" src="{{$logo['path']}}"
-                                         style="display: block;height: auto;width: 100%;border: 0;max-width: 142px;"
-                                         width="142">
-                                </a>
+                                <a href="{{$logo['link']}}" style="text-decoration: none;transition: opacity 0.1s ease-in;color: #c3ced9;"
+                                   target="_blank"><img style="display: block;height: auto;width: 100%;border: 0;max-width: 143px;" src="{{$logo['path']}}" alt="" width="143" /></a>
                             </div>
-                        </div>
-                        <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
-                    </div>
-
-                @endif
-
-            </div>
-
-            <div role="section">
-                <div class="layout one-col fixed-width"
-                     style="margin: 0 auto;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;">
-                    <div class="layout__inner"
-                         style="border-collapse: collapse;display: table;width: 100%;background-color: #fff;">
-                        <!--[if (mso)|(IE)]>
-                        <table align="center" cellpadding="0" cellspacing="0" role="presentation">
-                            <tr class="layout-fixed-width" style="background-color: #fff;">
-                                <td style="width: 600px" class="w560"><![endif]-->
-
-                        <div class="column"
-                             style="text-align: left;color: #8f8f8f;font-size: 16px;line-height: 24px;font-family: Open Sans,sans-serif;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);">
-
-                            @if (trim($__env->yieldContent('banner')))
-
-                                <div class="banner" style="margin-left: 20px;margin-right: 20px;">
-                                    <div align="center"
-                                         style="font-size: 12px;font-style: normal;font-weight: normal;margin-bottom: 20px;">
-                                        @yield('banner')
-                                    </div>
-                                </div>
-
-                                <div style="margin-left: 20px;margin-right: 20px;">
-                                    <div style="line-height:10px;font-size:1px">
-                                        &nbsp;
-                                    </div>
-                                </div>
-
-                            @endif
-
-                            @if (trim($__env->yieldContent('header')))
-                                <div style="margin-left: 20px;margin-right: 20px;margin-top: 24px;">
-                                    <h1 class="size-26" lang="x-size-26"
-                                        style="margin-top: 0;margin-bottom: 20px;font-style: normal;font-weight: normal;color: #404040;font-size: 22px;line-height: 31px;font-family: merriweather,georgia,serif;text-align: center;">
-                                        <span class="font-merriweather"><strong><span
-                                                    style="color:#605f5a">@yield('header')</span></strong></span>
-                                    </h1>
-                                </div>
-
-                                <div style="margin-left: 20px;margin-right: 20px;">
-                                    <div style="line-height:10px;font-size:1px">
-                                    </div>
-                                </div>
-                            @endif
-
-                            @if(trim($__env->yieldContent('content')))
-
-                                <div class="content" style="margin-left: 20px;margin-right: 20px;">
-
-                                    @yield('content')
-
-                                </div>
-
-                                <div style="margin-left: 20px;margin-right: 20px;">
-                                    <div style="line-height:10px;font-size:1px">
-                                        &nbsp;
-                                    </div>
-                                </div>
-
-                            @endif
-
-                            @if(isset($button) && trim($__env->yieldContent('button')) == "")
-
-                                <div style="margin-left: 20px;margin-right: 20px;margin-bottom: 24px;">
-                                    <div class="btn btn--flat btn--large" style="text-align:center;">
-                                        <!--[if !mso]-->
-                                        <a href="{{$button['link']}}"
-                                           style="border-radius: 4px;display: inline-block;font-size: 14px;font-weight: bold;line-height: 24px;padding: 12px 24px;text-align: center;text-decoration: none !important;transition: opacity 0.1s ease-in;color: #ffffff !important;background-color: #ff4a3d;font-family: Open Sans, sans-serif;"
-                                           target="_blank">
-                                            {{$button['text']}}
-                                        </a>
-                                        <!--[endif]-->
-                                        <!--[if mso]>
-                                        <p style="line-height:0;margin:0;">&nbsp;</p>
-                                        <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"
-                                                     href="{{$button['link']}}"
-                                                     style="width:267px" arcsize="9%" fillcolor="#00779B" stroke="f">
-                                            <v:textbox style="mso-fit-shape-to-text:t" inset="0px,11px,0px,11px">
-                                                <center
-                                                    style="font-size:14px;line-height:24px;color:#FFFFFF;font-family:Open Sans,sans-serif;font-weight:bold;mso-line-height-rule:exactly;mso-text-raise:4px">
-                                                    {{$button['text']}}
-                                                </center>
-                                            </v:textbox>
-                                        </v:roundrect>
-                                        <![endif]-->
-                                    </div>
-                                </div>
-
-                            @elseif(trim($__env->yieldContent('button')))
-
-                                <div style="margin-left: 20px;margin-right: 20px;margin-bottom: 24px;">
-                                    @yield('button')
-                                </div>
-
-                            @endif
-
                         </div>
                         <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
                     </div>
                 </div>
 
-                @if(trim($__env->yieldContent('footnote')))
-                    <div class="layout one-col fixed-width"
+            @endif
+
+
+            <div role="section">
+                <div style="background-color: #281557;">
+                    <div class="layout one-col"
                          style="margin: 0 auto;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;">
                         <div class="layout__inner" style="border-collapse: collapse;display: table;width: 100%;">
                             <!--[if (mso)|(IE)]>
-                            <table align="center" cellpadding="0" cellspacing="0" role="presentation">
-                                <tr class="layout-fixed-width" style="background-color: #fff;">
+                            <table width="100%" cellpadding="0" cellspacing="0" role="presentation">
+                                <tr class="layout-full-width" style="background-color: #281557;">
+                                    <td class="layout__edges">&nbsp;</td>
                                     <td style="width: 600px" class="w560"><![endif]-->
 
                             <div class="column"
-                                 style="text-align: left;color: #8f8f8f;font-size: 16px;line-height: 24px;font-family: Open Sans,sans-serif;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);">
-                                <div style="margin-left: 20px;margin-right: 20px;margin-top: 24px;margin-bottom: 24px;">
-                                    <p class="size-12" lang="x-size-12"
-                                       style="margin-top: 0;margin-bottom: 0;font-size: 12px;line-height: 19px;text-align: center;">
-                                        <span style="color:#bdb9bd">
-                                            @yield('footnote')
-                                        </span>
+                                 style="max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);text-align: left;color: #8e959c;font-size: 14px;line-height: 21px;font-family: sans-serif;">
+                                <div style="margin-left: 20px;margin-right: 20px;">
+                                    <div style="line-height:10px;font-size:1px">
+                                        &nbsp;
+                                    </div>
+                                </div>
+                            </div>
+                            <!--[if (mso)|(IE)]></td>
+                            <td class="layout__edges">&nbsp;</td></tr></table><![endif]-->
+                        </div>
+                    </div>
+                </div>
+
+                <div
+                    style="background-color: #4b5462;background-position: 0px 0px;background-image: url(@yield('banner'));background-repeat: repeat;">
+                    <div class="layout one-col"
+                         style="margin: 0 auto;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;">
+                        <div class="layout__inner" style="border-collapse: collapse;display: table;width: 100%;">
+                            <!--[if (mso)|(IE)]>
+                            <table width="100%" cellpadding="0" cellspacing="0" role="presentation">
+                                <tr class="layout-full-width"
+                                    style="background-color: #4b5462;background-position: 0px 0px;background-image: url(@yield('banner'));background-repeat: repeat;">
+                                    <td class="layout__edges">&nbsp;</td>
+                                    <td style="width: 600px" class="w560"><![endif]-->
+
+                            <div class="column"
+                                 style="max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);text-align: left;color: #8e959c;font-size: 14px;line-height: 21px;font-family: sans-serif;">
+                                <div style="margin-left: 20px;margin-right: 20px;">
+                                    <div style="line-height:110px;font-size:1px">
+                                        &nbsp;
+                                    </div>
+                                </div>
+
+
+                                @if (trim($__env->yieldContent('header')))
+
+                                    <div style="margin-left: 20px;margin-right: 20px;">
+                                        <h1 class="size-64" lang="x-size-64"
+                                            style="margin-top: 0;margin-bottom: 20px;font-style: normal;font-weight: normal;color: #000;font-size: 44px;line-height: 50px;font-family: avenir,sans-serif;text-align: center;">
+                                            <span class="font-avenir"><strong><span style="color:#ffffff">@yield('header')</span></strong></span>
+                                        </h1>
+                                    </div>
+
+                                    <div style="margin-left: 20px;margin-right: 20px;">
+                                        <div style="line-height:5px;font-size:1px">
+                                            &nbsp;
+                                        </div>
+                                    </div>
+
+                                @endif
+
+
+                                @if(isset($button) && trim($__env->yieldContent('button')) == "")
+
+                                    <div style="margin-left: 20px;margin-right: 20px;">
+                                        <div class="btn btn--flat btn--medium"
+                                             style="margin-bottom: 20px;text-align: center;">
+                                            <![if !mso]><a href="{{$button['link']}}"
+                                                           style="border-radius: 4px;display: inline-block;font-size: 12px;font-weight: bold;line-height: 22px;padding: 10px 20px;text-align: center;text-decoration: none !important;transition: opacity 0.1s ease-in;color: #ffffff !important;background-color: #e31212;font-family: Avenir, sans-serif;">{{$button['text']}}</a><![endif]> <!--[if mso]><p style="line-height:0;margin:0;">
+                                                &nbsp;</p>
+                                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="{{$button['link']}}"
+                                                         style="width:152px" arcsize="10%" fillcolor="#E31212" stroke="f">
+                                                <v:textbox style="mso-fit-shape-to-text:t" inset="0px,9px,0px,9px">
+                                                    <center
+                                                        style="font-size:12px;line-height:22px;color:#FFFFFF;font-family:Avenir,sans-serif;font-weight:bold;mso-line-height-rule:exactly;mso-text-raise:4px">
+                                                        {{$button['text']}}
+                                                    </center>
+                                                </v:textbox>
+                                            </v:roundrect><![endif]-->
+                                        </div>
+                                    </div>
+
+                                @elseif(trim($__env->yieldContent('button')))
+
+                                    <div style="margin-left: 20px;margin-right: 20px;margin-bottom: 24px;">
+                                        @yield('button')
+                                    </div>
+
+                                @endif
+
+                                <div style="margin-left: 20px;margin-right: 20px;">
+                                    <div style="line-height:85px;font-size:1px">
+                                        &nbsp;
+                                    </div>
+                                </div>
+                            </div>
+                            <!--[if (mso)|(IE)]></td>
+                            <td class="layout__edges">&nbsp;</td></tr></table><![endif]-->
+                        </div>
+                    </div>
+                </div>
+
+                @if(trim($__env->yieldContent('content')))
+
+                    <div style="line-height:15px;font-size:15px;">
+                        &nbsp;
+                    </div>
+
+                    <div class="layout one-col fixed-width"
+                         style="margin: 0 auto;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;">
+                        <div class="layout__inner"
+                             style="border-collapse: collapse;display: table;width: 100%;background-color: #ffffff;">
+                            <!--[if (mso)|(IE)]>
+                            <table align="center" cellpadding="0" cellspacing="0" role="presentation">
+                                <tr class="layout-fixed-width" style="background-color: #ffffff;">
+                                    <td style="width: 600px" class="w560"><![endif]-->
+
+                            <div class="column"
+                                 style="text-align: left;color: #8e959c;font-size: 14px;line-height: 21px;font-family: sans-serif;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);">
+                                <div style="margin-left: 20px;margin-right: 20px;">
+                                    <div style="line-height:50px;font-size:1px">
+                                        &nbsp;
+                                    </div>
+                                </div>
+
+                                <div style="margin-left: 20px;margin-right: 20px;">
+                                    <p style="margin-top: 0;margin-bottom: 0;">
+                                        @yield('content')
                                     </p>
                                 </div>
                             </div>
@@ -956,29 +940,74 @@
                         </div>
                     </div>
 
+                @endif
+
+
+                @if(trim($__env->yieldContent('footnote')))
+
+                    <div style="line-height:20px;font-size:20px;">
+                        &nbsp;
+                    </div>
+
+                    <div role="contentinfo">
+                        <div class="layout email-footer"
+                             style="margin: 0 auto;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;">
+                            <div class="layout__inner" style="border-collapse: collapse;display: table;width: 100%;">
+                                <!--[if (mso)|(IE)]>
+                                <table align="center" cellpadding="0" cellspacing="0" role="presentation">
+                                    <tr class="layout-email-footer">
+                                        <td style="width: 400px;" valign="top" class="w360"><![endif]-->
+
+                                <div class="column wide"
+                                     style="text-align: left;font-size: 12px;line-height: 19px;color: #adb3b9;font-family: sans-serif;Float: left;max-width: 400px;min-width: 320px; width: 320px;width: calc(8000% - 47600px);">
+                                    <div style="margin-left: 20px;margin-right: 20px;margin-top: 10px;margin-bottom: 10px;">
+                                        <div style="font-size: 12px;line-height: 19px;">
+                                            <div>
+                                                @yield('footnote')
+                                            </div>
+                                        </div>
+
+                                        <div style="font-size: 12px;line-height: 19px;margin-top: 18px;">
+                                        </div>
+                                        <!--[if mso]>&nbsp;<![endif]-->
+                                    </div>
+                                </div>
+                                <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+                            </div>
+                        </div>
+                    </div>
+
                 @elseif(isset($footnote) && $footnote != null)
 
-                    <div class="layout one-col fixed-width"
-                         style="margin: 0 auto;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;">
-                        <div class="layout__inner"
-                             style="border-collapse: collapse;display: table;width: 100%;background-color: #fff;">
-                            <!--[if (mso)|(IE)]>
-                            <table align="center" cellpadding="0" cellspacing="0" role="presentation">
-                                <tr class="layout-fixed-width" style="background-color: #fff;">
-                                    <td style="width: 600px" class="w560"><![endif]-->
+                    <div style="line-height:20px;font-size:20px;">
+                        &nbsp;
+                    </div>
 
-                            <div class="column"
-                                 style="text-align: left;color: #8f8f8f;font-size: 16px;line-height: 24px;font-family: Open Sans,sans-serif;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);">
-                                <div style="margin-left: 20px;margin-right: 20px;margin-top: 24px;margin-bottom: 24px;">
-                                    <p class="size-12" lang="x-size-12"
-                                       style="margin-top: 0;margin-bottom: 0;font-size: 12px;line-height: 19px;text-align: center;">
-                                    <span style="color:#bdb9bd">
-                                        {!! $footnote !!}
-                                    </span>
-                                    </p>
+                    <div role="contentinfo">
+                        <div class="layout email-footer"
+                             style="margin: 0 auto;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;">
+                            <div class="layout__inner" style="border-collapse: collapse;display: table;width: 100%;">
+                                <!--[if (mso)|(IE)]>
+                                <table align="center" cellpadding="0" cellspacing="0" role="presentation">
+                                    <tr class="layout-email-footer">
+                                        <td style="width: 400px;" valign="top" class="w360"><![endif]-->
+
+                                <div class="column wide"
+                                     style="text-align: left;font-size: 12px;line-height: 19px;color: #adb3b9;font-family: sans-serif;Float: left;max-width: 400px;min-width: 320px; width: 320px;width: calc(8000% - 47600px);">
+                                    <div style="margin-left: 20px;margin-right: 20px;margin-top: 10px;margin-bottom: 10px;">
+                                        <div style="font-size: 12px;line-height: 19px;">
+                                            <div>
+                                                {!! $footnote !!}
+                                            </div>
+                                        </div>
+
+                                        <div style="font-size: 12px;line-height: 19px;margin-top: 18px;">
+                                        </div>
+                                        <!--[if mso]>&nbsp;<![endif]-->
+                                    </div>
                                 </div>
+                                <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
                             </div>
-                            <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
                         </div>
                     </div>
 
