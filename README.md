@@ -4,12 +4,12 @@ This package is a easy to use mail template collection for Laravel 5.x.
 * You can use it for every purpose.
 * You can override to all templates and all blocks.
 
-## 🎨 [Templates](./screenshots)
+## 🎨 [Templates](https://github.com/muratbsts/mail-template/wiki/Choosing-templates)
 
 There is only 3 templates available currently. But more templates is coming fastly.
 I'm developing beautiful and responsive email templates inspired by [Really Good Emails Collection](https://codepen.io/reallygoodemails).
 
-🏙 [Screenshots are here](./screenshots)
+🏙 [Screenshots are here](https://github.com/muratbsts/mail-template/wiki/Choosing-templates)
 
 ## Installation
 
@@ -78,26 +78,10 @@ class XyzController extends Controller
 }
 ```
 
-Extend your welcome email template from `mailtemplate::emails.default` as like below
+Extend your welcome email template from `mailtemplate::emails.{$template}` as like below
 
 ```php
-@extends('mailtemplate::emails.default')
-
-@section('logo')
-    <a href="http://placehold.it/142x142" target="_blank">
-        <img alt="" src="http://placehold.it/142x142" width="142">
-    </a>
-@endsection
-
-@section('header')
-    Lorem ipsum dolor sit amet
-@endsection
-
-@section('banner')
-    <a href="http://placehold.it/900x300" target="_blank">
-        <img alt="" src="http://placehold.it/900x300">
-    </a>
-@endsection
+@extends('mailtemplate::emails.{$template}')
 
 @section('content')
     <p class="paragraph">Hi,</p>
@@ -105,13 +89,11 @@ Extend your welcome email template from `mailtemplate::emails.default` as like b
     <p class="paragraph">Take care,</p>
     <p class="paragraph">Murat</p>
 @endsection
-
-@section('footnote')
-    Selam
-@endsection
 ```
 
 🎉 Cheers! That's it.
+
+[More details at the wiki page.](https://github.com/muratbsts/mail-template/wiki)
 
 ## License
 
